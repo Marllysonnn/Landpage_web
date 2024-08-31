@@ -1,0 +1,25 @@
+nav, nav div, nav a{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: fit-content;
+}
+nav{
+    height: 100vh;
+    position: fixed;
+    justify-content: space-evenly;
+    padding: 1em;
+    background-color: #005EAB;
+}
+nav div{
+    gap: 1.5em;
+}
+nav a{
+    text-align: center;
+    font-size: 0.5em;
+    font-weight: 600;
+    gap: 0.5em;
+}
+#icon{
+    width: 3.2em;
+}
