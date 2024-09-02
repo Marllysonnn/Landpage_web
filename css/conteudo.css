@@ -1,5 +1,6 @@
 #content{
-    margin-left: 7%;
+    width: 100vw;
+    margin-left: 5.25em;
 }
 #header{
     display: flex;

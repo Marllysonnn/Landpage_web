@@ -5,7 +5,7 @@
     font-family: 'Inter';
     src: url(font/Inter-VariableFont_opsz\,wght.ttf);
 }
-body{
+body {
     width: 100vw;
     height: 100vh;
     display: flex;
